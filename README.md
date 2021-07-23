@@ -4,9 +4,9 @@
 This is a web application that resembles the features of Google Map including **map rastering**, **routing(finding the shortest path)**, **autocomplete searching** and **navigation direction** functions. Front end code was provided.
 
 ## Data Structure and Algorithm Built from Scratch
-* KDTree & Priority Queue: [proj2ab](https://github.com/davidyen-888/bearmap/tree/master/proj2c/bearmaps/proj2ab)
-* A* Search: [hw4](https://github.com/davidyen-888/bearmap/tree/master/proj2c/bearmaps/hw4)
-* Trie: [lab9](https://github.com/davidyen-888/bearmap/tree/master/proj2c/bearmaps/lab9)
+* KDTree & Priority Queue: [proj2ab](https://github.com/davidyen-888/bearmaps/tree/master/bearmaps/proj2ab)
+* A* Search: [hw4](https://github.com/davidyen-888/bearmaps/tree/master/proj2c/bearmaps/hw4)
+* Trie: [lab9](https://github.com/davidyen-888/bearmaps/tree/master/proj2c/bearmaps/lab9)
 
 ## Usage
 ### Zooming 
