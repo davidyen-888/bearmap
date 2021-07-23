@@ -5,8 +5,8 @@ This is a web application that resembles the features of Google Map including **
 
 ## Data Structure and Algorithm Built from Scratch
 * KDTree & Priority Queue: [proj2ab](https://github.com/davidyen-888/bearmaps/tree/master/bearmaps/proj2ab)
-* A* Search: [hw4](https://github.com/davidyen-888/bearmaps/tree/master/proj2c/bearmaps/hw4)
-* Trie: [lab9](https://github.com/davidyen-888/bearmaps/tree/master/proj2c/bearmaps/lab9)
+* A* Search: [hw4](https://github.com/davidyen-888/bearmaps/tree/master/bearmaps/hw4)
+* Trie: [lab9](https://github.com/davidyen-888/bearmaps/tree/master/bearmaps/lab9)
 
 ## Usage
 ### Zooming 
