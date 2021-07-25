@@ -1,7 +1,7 @@
 # Bear Maps, version 4.0
 
 ## Intro
-This is a web application that resembles the features of Google Map including **map rastering**, **routing(finding the shortest path)**, **autocomplete searching** and **navigation direction** functions. Front end code was provided.
+This is a web application that resembles the features of Google Map including **map rastering**, **routing(finding the shortest path)**, **autocomplete searching** and **navigation direction** functions. Front end code and map data from [OpenStreetMap](https://www.openstreetmap.org) was provided.
 
 ## Data Structure and Algorithm Built from Scratch
 * KDTree & Priority Queue: [proj2ab](https://github.com/davidyen-888/bearmaps/tree/master/bearmaps/proj2ab)
