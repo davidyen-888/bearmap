@@ -20,10 +20,11 @@ Second, click on the direction button can see the navigation directions steps by
 Last, click on the **clear route button** before next path query.
 
 ## Demo
-Routing
+### Routing
 ![](https://i.imgur.com/4ILarpd.jpg)
-Autocomplete searching
+### Autocomplete searching
 ![](https://i.imgur.com/nV4qmQs.jpg)
+### Video Demo
 [![Video Demo](https://img.youtube.com/vi/HWpYO5MP89I/0.jpg)](https://www.youtube.com/watch?v=HWpYO5MP89I)
 ## Reference
 https://sp19.datastructur.es/materials/proj/proj2c/proj2c
